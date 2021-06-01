@@ -17,7 +17,7 @@ let array2=ThelatestArticleJson;
         <>
         <div className="grid-container">
         <div className="main-image-1">
-            <img src="http://s1.picswalls.com/wallpapers/2017/12/11/nature-backgrounds_123026774_313.jpg" alt="nature-main"/>
+            <img src="https://weneedfun.com/wp-content/uploads/2016/10/Peaceful-Nature-Sunrise-Wallpapers-8.jpg" alt="nature-main"/>
             <span className="image-text">
                 <h3>Title of vertical gallery</h3>
                 <p>Travel/August 21 2017</p>
