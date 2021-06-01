@@ -1,0 +1,17 @@
+
+.container{
+    width: 90vw;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.horizontal-line{
+    border: none;
+    background-color: lightgray;
+    height: 2px;
+}
+@media screen and (max-width:650px) {
+    .container{
+        width:90vw;
+        margin: auto;
+    }
+}
