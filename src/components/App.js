@@ -20,7 +20,8 @@ function App() {
     <Route path="/hollywood" component={Hollywood} />
     <Route path="/fitness" component={Fitness} />
     <Route path="/food" component={Food} />
-    <Route path="/" component={Home} exact />
+    <Route path="/react-blog" component={Home}  />
+    <Route path="/" component={Home}  exact/>
     <Footer />
     </div>
     </BrowserRouter>

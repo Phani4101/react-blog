@@ -23,7 +23,7 @@ const Header=()=>{
         <button className="menu-btn" onClick={func}>&#9776;</button>
         </div>
         <nav>
-            <div><NavLink activeStyle={activestyle} to="/" exact >Home</NavLink></div>
+            <div><NavLink activeStyle={activestyle} to="/react-blog" exact >Home</NavLink></div>
             <div><NavLink activeStyle={activestyle} to="/bollywood">Bollywood</NavLink></div>
             <div><NavLink activeStyle={activestyle} to="/technology">Technology</NavLink></div>
             <div><NavLink activeStyle={activestyle} to="/hollywood">Hollywood</NavLink></div>
